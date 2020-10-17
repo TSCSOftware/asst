@@ -1,0 +1,36 @@
+[
+  {
+    
+    "index": 1,
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "title": "තාක්ෂණික පුවත් ",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg"
+  },
+  {
+    
+    "index": 1,
+    "route": "",
+    "title": "ගීයක අරුත ",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg"
+  },
+   
+   
+   {
+    
+    "index": 1,
+    "route": "accusamus beatae ad facilis cum similique qui sunt",
+    "title": " android",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+  },
+  {
+    
+    "index": 1,
+    "route": "accusamus beatae ad facilis cum similique qui sunt",
+    "title": "apple",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+  }
+  ]
