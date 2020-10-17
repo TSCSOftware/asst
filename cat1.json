@@ -20,7 +20,7 @@
    {
     
     "index": 1,
-    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=2346&_embed",
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=234&_embed",
     "title": " තාරකාවිද්‍යාව",
     "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg",
     "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg"
