@@ -28,9 +28,9 @@
   {
     
     "index": 1,
-    "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "title": "Mobile",
-    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/mobi.jpg",
-    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/mobi.jpg"
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=706351872&_embed",
+    "title": "අත්තම්මගේ බණ කතා",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg"
   }
   ]
