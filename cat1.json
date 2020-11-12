@@ -1,0 +1,36 @@
+[
+  {
+    
+    "index": 1,
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "title": "තාක්ෂණික පුවත් ",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/techn.jpg"
+  },
+  {
+    
+    "index": 1,
+    "route": "",
+    "title": "ගීයක අරුත ",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/music.jpg"
+  },
+   
+   
+   {
+    
+    "index": 1,
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=234&_embed",
+    "title": " තාරකාවිද්‍යාව",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/astro.jpg"
+  },
+  {
+    
+    "index": 1,
+    "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=706351872&_embed",
+    "title": "අත්තම්මගේ බණ කතා",
+    "icon": "https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg",
+    "bgimg":"https://raw.githubusercontent.com/TSCSOftware/asst/main/bana.jpg"
+  }
+  ]
